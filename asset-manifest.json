@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodeAlpha_Weather_Dashboard/static/css/main.2fd22ed7.css",
+    "main.js": "/CodeAlpha_Weather_Dashboard/static/js/main.4fc857a0.js",
+    "static/js/453.dace7088.chunk.js": "/CodeAlpha_Weather_Dashboard/static/js/453.dace7088.chunk.js",
+    "index.html": "/CodeAlpha_Weather_Dashboard/index.html",
+    "main.2fd22ed7.css.map": "/CodeAlpha_Weather_Dashboard/static/css/main.2fd22ed7.css.map",
+    "main.4fc857a0.js.map": "/CodeAlpha_Weather_Dashboard/static/js/main.4fc857a0.js.map",
+    "453.dace7088.chunk.js.map": "/CodeAlpha_Weather_Dashboard/static/js/453.dace7088.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd22ed7.css",
+    "static/js/main.4fc857a0.js"
+  ]
+}
